@@ -1,0 +1,16 @@
+{
+  "name": "murrion/twitterfavourites",
+  "description": "Save my Twitter Favourites to AWS's DynamoDB",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Gordon Murray",
+      "email": "projects@murrion.com"
+    }
+  ],
+  "require": {
+    "abraham/twitteroauth": "^0.5.3",
+    "aws/aws-sdk-php": "2.7.26"
+  }
+}
